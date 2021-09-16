@@ -7,26 +7,26 @@ Auto Generates the README.md of the room wanted.
 ![](usage.gif)
 
 ## README.md output
-```
-# OWASP Top 10
+
+### OWASP Top 10
 
 - September 15, 2021
 
 -------------------------
 
 
-## Task 1  Introduction
+#### Task 1  Introduction
 - Read the above.                            
 
 	- ``
 
-## Task 2  Accessing machines
+#### Task 2  Accessing machines
 - Connect to our network or deploy the AttackBox.
 
 	- ``
 
-## Task 3  [Severity 1] Injection 
+#### Task 3  [Severity 1] Injection 
 - I've understood Injection attacks.
 
 	- ``
-```
+...
