@@ -6,7 +6,7 @@ Auto Generates the README.md of the room wanted.
 ## How to use it?
 ![](usage.gif)
 
-## README.md output
+## Exemple of README.md output
 
 ### OWASP Top 10
 
