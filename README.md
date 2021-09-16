@@ -1,6 +1,8 @@
 # TryHackMe-Notes-Draft-Generator
 Auto Generates the README.md of the room wanted. 
 
+`pip install -r requirements.txt`
+
 ## How to use it?
 ![](usage.gif)
 
