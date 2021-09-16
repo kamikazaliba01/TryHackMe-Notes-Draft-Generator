@@ -14,19 +14,48 @@ Auto Generates the README.md of the room wanted.
 
 -------------------------
 
+[...]
 
-#### Task 1  Introduction
-- Read the above.                            
-
-	- ``
-
-#### Task 2  Accessing machines
-- Connect to our network or deploy the AttackBox.
+### Task 5  [Severity 1] Command Injection Practical
+- What strange text file is in the website root directory?                            
 
 	- ``
 
-#### Task 3  [Severity 1] Injection 
-- I've understood Injection attacks.
+- How many non-root/non-service/non-daemon users are there?
 
 	- ``
-...
+
+- What user is this app running as?
+
+	- ``
+
+- What is the user's shell set as?
+
+	- ``
+
+- What version of Ubuntu is running?
+
+	- ``
+
+- Print out the MOTD.  What favorite beverage is shown?
+
+	- ``
+
+### Task 6  [Severity 2] Broken Authentication
+- I've understood broken authentication mechanisms.
+
+	- ``
+
+### Task 7  [Severity 2] Broken Authentication Practical
+- What is the flag that you found in darren's account?                            
+
+	- ``
+
+- Now try to do the same trick and see if you can login as arthur.
+
+	- ``
+
+- What is the flag that you found in arthur's account?
+
+	- ``
+[...]
